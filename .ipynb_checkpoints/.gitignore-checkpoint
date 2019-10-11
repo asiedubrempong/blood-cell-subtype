@@ -1,0 +1,6 @@
+# exclude all contents of the data folder
+data/*
+
+# exception to the rule
+# create empty .gitkeep file so that the folder shows up on github and not the contents
+!data/.gitkeep
